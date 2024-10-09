@@ -1,0 +1,45 @@
+h1{
+color:blueviolet;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.box{
+    height:90px;
+    width:90px;
+    border:3px solid black;
+    margin-right:6px;
+}
+#container{
+    border:3px solid red;
+    height:435px;
+    padding:10px;
+    margin:20px;
+    width:435px;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: center;
+}
+#box1{
+    background-color: brown;
+    
+}
+#box2{
+    background-color: blue;
+}
+#box3{
+    background-color: chartreuse;
+
+}
+#box4{
+    background-color: chocolate;
+}
+#box5{
+    background-color: darkblue;
+}
+#box6{
+    background-color: crimson;
+}

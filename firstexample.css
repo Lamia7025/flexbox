@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+.box{
+    height:100px;
+    width:100px;
+    border:3px solid black;
+    margin-left:6px;
+}
+#container{
+    border:3px solid red;
+    height:335px;
+    padding:10px;
+    margin:20px;
+    width:335px;
+    display:flex;
+    flex-wrap: wrap;
+}
+#first{
+    background-color: aqua;
+}
+#second{
+    background-color: blueviolet;
+}
+#third{
+    background-color: brown;
+}
+#forth{
+    background-color: chartreuse;
+}
